@@ -9,7 +9,7 @@ const Footer = () => {
                 <div>
                     <img src={LogoFooter} alt="Drip Store Logo" className="h-8 mb-4" />
                     <p className="text-sm text-gray-400 mb-4">
-                    Projeto final Front-end Geração Tech. Digital Store é uma aplicação que simula
+                    Projeto Digital Store Front-end. Digital Store é uma aplicação que simula
                     um e-commerce de produtos. Aplicação feita em React + Tailwind.
                     </p>
                     <div className="flex space-x-4">
@@ -49,10 +49,10 @@ const Footer = () => {
                     </p>
                     <p className="text-sm text-gray-400 mt-2">(85) 3051-3411</p>
                 </div>
-            </div>.
+            </div>
 
             <div className="border-t border-gray-700 mt-10 pt-6 text-center text-xs text-gray-500">
-                © 2022 Digital College
+                © 2025 Geração Tech 2.0
             </div>
         </footer>
     );

@@ -1,7 +1,11 @@
+<h1 align="center">
+  👟 Digital Store
+</h1>
 
-# 👟 Digital Store
+<p align="center">
+  Uma loja virtual moderna construída com React, React Router e TailwindCSS. Este projeto simula um e-commerce completo, oferecendo uma experiência fluida de navegação, busca de produtos, aplicação de filtros, exibição de carrosséis promocionais e gerenciamento de carrinho de compras.
+</p>
 
-Uma loja virtual moderna construída com React, React Router e TailwindCSS. Este projeto simula um e-commerce completo, oferecendo uma experiência fluida de navegação, busca de produtos, aplicação de filtros, exibição de carrosséis promocionais e gerenciamento de carrinho de compras.
 
 ## ✨ Recursos Principais
 
@@ -15,6 +19,7 @@ Uma loja virtual moderna construída com React, React Router e TailwindCSS. Este
 - 🎯 Interface responsiva baseada em layout do Figma;
 - 🖼 Uso de imagens reais para maior imersão.
 
+
 ## ⚙️ Tecnologias Utilizadas
 
 - ⚛️ React (com Vite);
@@ -23,6 +28,7 @@ Uma loja virtual moderna construída com React, React Router e TailwindCSS. Este
 - 🗂 Context API;
 - 🧠 JavaScript moderno (ES6+);
 - 💾 Armazenamento local com `localStorage`.
+
 
 ## 🚀 Como executar o projeto
 
@@ -44,13 +50,12 @@ npm run dev
 
 A aplicação ficará disponível em: <http://localhost:5173>
 
+
 ## 🌍 Plataformas Compatíveis
 
 - Vercel  
-- Netlify  
-- Railway  
-- Firebase Hosting  
 - GitHub Pages (com ajustes específicos)
+
 
 ## 🎨 Estilo
 
@@ -60,14 +65,19 @@ Todo o visual da aplicação foi criado com TailwindCSS, focando em uma experiê
 
 ## 🙏 Agradecimentos
 
-A realização deste projeto só foi possível graças ao apoio, incentivo e às ferramentas que facilitaram todo o processo de desenvolvimento. A cada linha de código, houve também aprendizado, dedicação e paixão.
+A realização deste projeto só foi possível graças ao apoio e incentivo da Geração Tech e às ferramentas que facilitaram todo o processo de desenvolvimento. A cada linha de código, houve também aprendizado, dedicação e paixão.
 
-Um agradecimento especial a todos que acreditam no poder da criação digital, à comunidade de desenvolvedores que compartilha conhecimento diariamente — e à você, que chegou até aqui. 💡
+A todos que acreditam no poder da criação digital, à comunidade de Desenvolvedores que compartilham conhecimento diariamente — e à você, que chegou até aqui: Obrigado! 💡
 
-Este projeto representa mais do que um simples e-commerce: é o reflexo de sonhos em construção, caminhos sendo traçados e ideias que ganham vida na tela.
+Deixo também, um agradecimento mais que especial para:
 
-Muito obrigado por fazer parte dessa jornada! 🚀✨
+👏  *Prof. Luan Oliveira* |
+    https://github.com/in100tiva
+
+👏  *Nazaré Almeida* |
+    https://github.com/nazare4lmeida
 
 ---
 
-Desenvolvido por *JulianSolo*, 
+Desenvolvido por *JulianSolo*. |
+Atualização em: 30/06/2025.

@@ -4,8 +4,8 @@ import ProductListing from '../components/HomePage/productListing';
 import { IoShirtOutline } from "react-icons/io5";
 import { PiBaseballCapLight, PiHeadphonesLight, PiPantsLight } from "react-icons/pi";
 import { GiConverseShoe } from "react-icons/gi";
-import airJordanImg from '../assets/Laye 1.png';
 import { useNavigate } from 'react-router-dom';
+import nikeDunksbhiImg from '../assets/nike-dunksbhi.png';
 
 
 const categoryIcons = [
@@ -147,7 +147,7 @@ const HomePage = () => {
 
                 <div className="flex-1 z-10">
                     <img
-                        src={airJordanImg}
+                        src={nikeDunksbhiImg}
                         alt="Air Jordan edição de colecionador"
                         className="w-full max-w-md ml-0 mx-auto"
                     />
