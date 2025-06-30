@@ -79,5 +79,5 @@ Deixo também, um agradecimento mais que especial para:
 
 ---
 
-Desenvolvido por *JulianSolo*. |
+Desenvolvido por *JulianSolo*. ||
 Atualização em: 30/06/2025.
