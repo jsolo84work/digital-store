@@ -67,7 +67,7 @@ Todo o visual da aplicação foi criado com TailwindCSS, focando em uma experiê
 
 A realização deste projeto só foi possível graças ao apoio e incentivo da Geração Tech e às ferramentas que facilitaram todo o processo de desenvolvimento. A cada linha de código, houve também aprendizado, dedicação e paixão.
 
-A todos que acreditam no poder da criação digital, à comunidade de Desenvolvedores que compartilham conhecimento diariamente — e à você, que chegou até aqui: Obrigado! 💡
+A todos que acreditam no poder da criação digital, à comunidade de Desenvolvedores que compartilham conhecimento diariamente — e à você, que chegou até aqui: Obrigado! 💡🙏
 
 Deixo também, um agradecimento mais que especial para:
 
